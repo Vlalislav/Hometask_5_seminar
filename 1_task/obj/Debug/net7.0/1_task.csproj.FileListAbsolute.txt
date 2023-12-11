@@ -1,0 +1,14 @@
+D:\study_IT\new_c#\5_seminar\1_task\bin\Debug\net7.0\1_task.exe
+D:\study_IT\new_c#\5_seminar\1_task\bin\Debug\net7.0\1_task.deps.json
+D:\study_IT\new_c#\5_seminar\1_task\bin\Debug\net7.0\1_task.runtimeconfig.json
+D:\study_IT\new_c#\5_seminar\1_task\bin\Debug\net7.0\1_task.dll
+D:\study_IT\new_c#\5_seminar\1_task\bin\Debug\net7.0\1_task.pdb
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.AssemblyInfoInputs.cache
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.AssemblyInfo.cs
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.csproj.CoreCompileInputs.cache
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.dll
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\refint\1_task.dll
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.pdb
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\1_task.genruntimeconfig.cache
+D:\study_IT\new_c#\5_seminar\1_task\obj\Debug\net7.0\ref\1_task.dll
